@@ -1,5 +1,3 @@
-# pt-proj
-
 # Location of Injuries
 
 ## Knee
