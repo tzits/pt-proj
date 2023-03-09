@@ -3,6 +3,7 @@
 ## Knee
 ### Patellofemoral Pain Syndrome
 https://www.ncbi.nlm.nih.gov/books/NBK561509/
+
 **Areas to Strengthen:**
 
 *Exercises:*
@@ -16,6 +17,7 @@ https://www.ncbi.nlm.nih.gov/books/NBK561509/
 
 ### Patella tendinopathy
 https://health.clevelandclinic.org/patellar-tendonitis-exercises-stretches/
+
 **Areas to Strengthen:**
 
 *Exercises:*
@@ -28,6 +30,7 @@ https://health.clevelandclinic.org/patellar-tendonitis-exercises-stretches/
 
 ### Meniscular injury
 https://www.lancastergeneralhealth.org/healthwise-library/condition-categories/bones-joints-muscles?lang=en-us&DocumentId=uh2071
+
 **Areas to Strengthen:**
 
 *Exercises:*
