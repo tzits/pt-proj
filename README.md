@@ -3,6 +3,7 @@
 ## Knee
 ### Patellofemoral Pain Syndrome
 https://www.ncbi.nlm.nih.gov/books/NBK561509/
+
 **Areas to Strengthen:**
 
 *Exercises:*
@@ -16,6 +17,7 @@ https://www.ncbi.nlm.nih.gov/books/NBK561509/
 
 ### Patella tendinopathy
 https://health.clevelandclinic.org/patellar-tendonitis-exercises-stretches/
+
 **Areas to Strengthen:**
 glutes, hamstrings, quads, and calves
 
@@ -29,6 +31,7 @@ glutes, hamstrings, quads, and calves
 
 ### Meniscular injury
 https://www.lancastergeneralhealth.org/healthwise-library/condition-categories/bones-joints-muscles?lang=en-us&DocumentId=uh2071
+
 **Areas to Strengthen:**
 
 *Exercises:*
@@ -42,6 +45,7 @@ https://www.lancastergeneralhealth.org/healthwise-library/condition-categories/b
 
 ### Anterior Knee Pain
 https://www.yourphysio.org.uk/condition-directory/anterior-knee-pain/
+
 **Areas to Strengthen:**
 Quads
 *Exercises:*
@@ -52,6 +56,7 @@ Quads
 
 ### Knee Sprain
 https://healthy.kaiserpermanente.org/health-wellness/health-encyclopedia/he.medial-collateral-ligament-sprain-rehab-exercises.bo1710
+
 **Areas to Strengthen:**
 *Exercises:*
 - Knee flexion with heel slide
@@ -69,6 +74,7 @@ https://healthy.kaiserpermanente.org/health-wellness/health-encyclopedia/he.medi
 ## Ankle
 ### Achilles Tendinopathy
 https://www.massgeneral.org/assets/mgh/pdf/orthopaedics/sports-medicine/physical-therapy/rehabilitation-protocol-for-achilles-tendinitis.pdf
+
 **Areas to Strengthen:**
 
 *Exercises:*
@@ -84,6 +90,7 @@ https://www.massgeneral.org/assets/mgh/pdf/orthopaedics/sports-medicine/physical
 
 ### Ankle Sprain
 https://www.ssmc.com.au/for-patients/ankle-exercises.html
+
 **Areas to Strengthen:**
 
 *Exercises:*
@@ -99,6 +106,7 @@ https://www.ssmc.com.au/for-patients/ankle-exercises.html
 ### Medial Tibial Stress Syndrome - Shin Splints
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2848339/
 https://www.running-physio.com/exercises-for-medial-tibial-stress-syndrome-aka-shin-splints/
+
 **Areas to Strengthen:**
 Truceps surae, hamstring, quads, core, hip, pelvis
 
@@ -118,6 +126,7 @@ Truceps surae, hamstring, quads, core, hip, pelvis
 
 ### Tibialis Posterior tendinopathy
 https://www.bidmc.org/-/media/files/beth-israel-org/sports-med/14-posterior-tibialis-exercises-092809.pdf
+
 **Areas to Strengthen:**
 
 *Exercises:*
@@ -134,6 +143,7 @@ https://www.bidmc.org/-/media/files/beth-israel-org/sports-med/14-posterior-tibi
 
 ### Calf Strain
 https://www.pogophysio.com.au/blog/how-to-rehab-calf-strains-in-runners/
+
 **Areas to Strengthen:**
 
 *Exercises:*
@@ -155,6 +165,7 @@ https://www.pogophysio.com.au/blog/how-to-rehab-calf-strains-in-runners/
 ## Foot
 ### Plantar fasciitis
 https://www.loyolamedicine.org/about-us/blog/best-exercises-for-plantar-fasciitis
+
 **Areas to Strengthen:**
 
 *Exercises:*
@@ -189,6 +200,7 @@ https://www.loyolamedicine.org/about-us/blog/best-exercises-for-plantar-fasciiti
 ## Hip/Groin
 ### Gluteal Strain/tendinopathy
 https://hhma.org/healthadvisor/aha-xgluteal-art/
+
 **Areas to Strengthen:**
 *Exercises:*
 - Single Knee to Chest
@@ -201,6 +213,7 @@ https://hhma.org/healthadvisor/aha-xgluteal-art/
 
 ### Adductor Strain
 https://e3rehab.com/blog/adductorstrainrehab/
+
 **Areas to Strengthen:**
 Hips, hamstrings, calves, core
 *Exercises:*
@@ -213,6 +226,7 @@ Hips, hamstrings, calves, core
 ## Upper Leg
 ### Quadriceps/hamstring tendinopathy
 https://www.sportsinjuryclinic.net/sport-injuries/knee-pain/anterior-knee-pain/quadriceps-tendonitis-exercises
+
 **Areas to Strengthen:**
 - Quad Stretch
 - Hip Flexor
@@ -228,6 +242,7 @@ https://www.sportsinjuryclinic.net/sport-injuries/knee-pain/anterior-knee-pain/q
 
 ### Quadriceps/hamstring strain
 https://www.physio-pedia.com/Quadriceps_Muscle_Strain
+
 **Areas to Strengthen:**
 
 *Exercises:*
@@ -247,6 +262,7 @@ https://www.physio-pedia.com/Quadriceps_Muscle_Strain
 
 ### Lower Back Pain
 https://www.runnersworld.com/training/a20844691/6-exercises-that-help-your-lower-back-pain/
+
 **Areas to Strengthen:**
 Back, Core, Hips, Glutes
 *Exercises:*
